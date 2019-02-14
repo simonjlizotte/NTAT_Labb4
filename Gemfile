@@ -17,7 +17,6 @@ gem 'rails', '~> 5.1.4'
 # Use Puma as the app server
 
 gem 'will_paginate', '~> 3.1.0'
-
 gem 'pg', '~> 0.21'
 
 gem 'puma', '~> 3.7'
